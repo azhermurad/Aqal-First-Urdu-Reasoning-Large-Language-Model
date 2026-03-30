@@ -51,7 +51,3 @@ python evaluation/inference.py
 
 ------------------------------------------------------------------------
 
-# 8. Contact
-
-Azher Ali\
-MS Data Science -- SEECS, NUST -->
