@@ -21,7 +21,7 @@ consistency, and final-answer correctness in Urdu.
 
 ## Using Conda (Recommended)
 
-conda create --name venv
+conda create --name venv\
 conda activate venv
 
 ## Using pip
