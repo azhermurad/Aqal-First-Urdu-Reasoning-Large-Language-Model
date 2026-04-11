@@ -6,7 +6,10 @@ from pathlib import Path
 from typing import Dict, Any
 import os
 
+
+
 def load_config(filename: str) -> Dict[str, Any]:
+# this function is used to load the configuration from the yaml file, it takes the filename as input and returns the configuration as a dict 
     """
     Load YAML configuration file
     Args:
